@@ -81,11 +81,11 @@
 <h3>[임예지]</h3>
 <br>
 :heavy_check_mark: <strong>역할</strong><br>
-- category(human/animal/avatar) 버튼 클릭시, 사진이 랜덤으로 background-box에 나타나도록 구현
+- category(human/animal/avatar) 버튼 클릭시, 사진이 랜덤으로 background-box에 나타나도록 구현<br>
 - 전반적인 CSS 스타일 편집<br><br>
 :heavy_check_mark: <strong>개발 Issue</strong><br>
-"Error : addEventListener is null" 오류가 계속해서 발생했습니다. 
-코드 통합 이후 CSS 스타일 중첩의 문제였고, position을 통한 부모, 자식 변수 수정을 통해 해결할 수 있었습니다.<br>
+- 랜덤으로 이미지가 출력되기에, 이미지 경로를 설정하는 것에 고민이 있었습니다. <br>
+  리터럴 템플릿으로 파일 이름에 난수 생성 변수를 작성해, 변화하는 이미지 경로를 설정할 수 있었습니다.
 <br>
 <br>
 
