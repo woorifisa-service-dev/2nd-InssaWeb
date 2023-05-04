@@ -1,6 +1,6 @@
 # INSSA-Web
 
-<div align=center>(https://inssawebstart.netlify.app/)
+<div align=center> :ballot_box_with_check: - https://inssawebstart.netlify.app/
 
 <div align=center>
   <img width="750" src="/banner.png">
